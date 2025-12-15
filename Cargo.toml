@@ -2,6 +2,8 @@
 name = "tokio-flag"
 version = "0.1.0"
 edition = "2024"
+description = "Simple flag implementation for `tokio`."
+license = "MIT"
 
 [dependencies]
 tokio = { version = "1", features = ["full"] }

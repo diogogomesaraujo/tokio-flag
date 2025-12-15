@@ -1,4 +1,4 @@
-//! Simple flag implementation for `tokio`.
+//! Simple flag implementation for tokio.
 
 use std::sync::Arc;
 use tokio::sync::RwLock;
