@@ -1,6 +1,6 @@
 [package]
-name = "tokio-flag"
-version = "0.1.0"
+name = "my-flag"
+version = "0.1.1"
 edition = "2024"
 description = "Simple flag implementation for `tokio`."
 license = "MIT"
